@@ -110,4 +110,4 @@ Route Prefix	        Description
 
 🧵 Built With ❤️ for Tailors, Designers & Boutiques
 
-Crafted by Anshika Sharma
+Crafted by Adarsh Dwivedi 
